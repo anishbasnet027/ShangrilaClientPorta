@@ -1,9 +1,11 @@
 .card-content1{
-    width:500px;
+    width:350px;
     min-width: 300px;
     height: 350px;
     margin: 7em;
-    background: linear-gradient(180deg, #ffcf98 0%, rgba(255, 255, 255, 0) 100%);
+    color: #FFFFFF;
+    background: linear-gradient(180deg, #009FE1 5.52%, rgba(53, 175, 228, 0.584746) 31.25%, rgba(127, 198, 232, 0) 56.98%, rgba(118, 203, 240, 0.469404) 80.54%);
+box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.25);
 box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.25);
 border-radius: 15px;
 text-align: center;
@@ -12,13 +14,13 @@ text-align: center;
 
 .loginCard-heading{
     background: #FFFFFF;
-box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.25);
+
     min-height: 90px;
-    background: linear-gradient(180deg, #FB8500 0%, rgba(255, 255, 255, 0) 100%);
+    background: linear-gradient(180deg, #009FE1 5.52%, rgba(53, 175, 228, 0.584746) 31.25%, rgba(127, 198, 232, 0) 56.98%, rgba(118, 203, 240, 0.469404) 80.54%);
 }
 
 .login-text{
-    color:rgb(23 23 23);
+    color:#232323;
     padding:0.8em;
 }
 
@@ -41,7 +43,7 @@ height: 30px;
 border: none;
 padding: 10px;
 background: #FFFFFF;
-box-shadow: 0px 1px 4px #FB8500;
+box-shadow: 0px 1px 4px #797979;
 border-radius: 32px;
 }
 
@@ -53,8 +55,8 @@ border-radius: 32px;
     font-weight: bold;
     width: 100px;
     height: 35px;
-    background: #FB8500;
-    box-shadow: 1px 1px 4px #FB8500;
+    background:#3a5791;
+    box-shadow: 1px 1px 4px #797979;
     border-radius: 32px;
     margin: 2em;
 }
